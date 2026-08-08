@@ -7,6 +7,9 @@
 - [Linux Download](https://git-scm.com/install/linux)
 - [macOS](https://git-scm.com/install/mac)
 
+## github konts
+- [github](https://github.com/signup)
+
 
 
 # 5. lekcija - 30.09.2026.
