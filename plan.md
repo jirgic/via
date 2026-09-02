@@ -8,3 +8,7 @@
 | **6** | **7.10.** | Test | Test |  | Browser event loop | Browser event loop |
 | **7** | **14.10.** | Angular | Angular |  | Data gathering (API) and visualisation | Data gathering (API) and visualisation |
 | **8** | **21.10.** | Exam | Exam | Exam | Exam | Exam |
+
+8 lectures 
+2 tests
+Automatic exam grade of average in tests IF average in tests > 7 (8,9,10)
