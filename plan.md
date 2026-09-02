@@ -1,4 +1,4 @@
-| Nr.p.k. | Datums | 45m | 45m | Recess | 45m | 45m |
+| Nr. | Date | 45m | 45m | Recess | 45m | 45m |
 | --- | --- | --- | --- | --- | --- | --- |
 | **1** | **2.09.** | Introduction + vscode + git + github (invite) + node.js + npm |  |  |  |  |
 | **2** | **9.09.** | HTML + CSS | Variables, expressions |  | Operators, conditions | Objects and inheritance |
