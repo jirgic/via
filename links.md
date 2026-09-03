@@ -1,4 +1,4 @@
-# 1. lekcija - 02.09.2026.
+# 1. lecture - 02.09.2026.
 ## Visual studio code
 - [Download](https://code.visualstudio.com/Download)
 
@@ -10,8 +10,5 @@
 ## github konts
 - [github](https://github.com/signup)
 
-
-
-# 5. lekcija - 30.09.2026.
-## Node.js
+## Node.js and npm
 - [Download](https://nodejs.org/en)
