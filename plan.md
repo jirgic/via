@@ -9,6 +9,8 @@
 | **7** | **14.10.** | Angular | Angular |  | Data gathering (API) and visualisation | Data gathering (API) and visualisation |
 | **8** | **21.10.** | ----Exam---- |
 
+Your homework/tests should be submitted via your private github repos where I've been added as well.
+
 8 lectures <br>
 2 tests <br>
 Automatic exam grade of average in tests IF average in tests > 7 (8,9,10)
