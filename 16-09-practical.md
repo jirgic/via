@@ -25,7 +25,6 @@ This assignment assesses your understanding and practical application of fundame
 ---
 
 ## Part 1 — Variables and Expressions
-**Total: 20 marks**
 
 ### Question 1.1 — Student Information *(5 marks)*
 Create variables representing a student's:
@@ -70,7 +69,6 @@ Write JavaScript expressions that determine:
 ---
 
 ## Part 2 — Operators and Conditions
-**Total: 25 marks**
 
 ### Question 2.1 — Grade Classification *(10 marks)*
 Write a program that receives a student's average grade and displays the appropriate result:
@@ -112,7 +110,6 @@ Then provide an example demonstrating the difference.
 ---
 
 ## Part 3 — Objects
-**Total: 25 marks**
 
 ### Question 3.1 — Create a Student Object *(10 marks)*
 Create an object called `student` containing at least the following properties:
@@ -156,7 +153,6 @@ Add a method called `getStatus()`. The method should return:
 ---
 
 ## Part 4 — Integrated Problem: Student Course Registration System
-**Total: 30 marks**
 
 In this section, combine your knowledge of variables, expressions, operators, conditions, and objects to create a JavaScript program representing a university course registration system.
 
