@@ -3,10 +3,10 @@
 | **1** | **2.09.** | Introduction + vscode + git + github (invite) + node.js + npm |  |  |  |  |
 | **2** | **16.09.** | HTML + CSS | Variables, expressions |  | Operators, conditions | Objects and inheritance |
 | **3** | **18.09.** | Branches (if/else/elseif) | Arrays |  | Loops | Functions |
-| **4** | **23.09.** | ----**Test**---- | ----**Test**---- |  | React | React |
-| **5** | **30.09.** | Vue | Vue |  | Javascript events | jQuery |
+| **4** | **23.09.** | ----**Test**---- | ----**Test**---- |  | Data gathering (API) and visualisation | Data gathering (API) and visualisation |
+| **5** | **30.09.** | -- | -- |  | React | React |
 | **6** | **8.10.** | ----**Test**---- | ----**Test**---- |  | Browser event loop | Browser event loop |
-| **7** | **14.10.** | Angular | Angular |  | Data gathering (API) and visualisation | Data gathering (API) and visualisation |
+| **7** | **14.10.** | Angular | Angular |  | Vue | Vue |
 | **8** | **21.10.** | ----Exam---- |
 
 Your homework/tests should be submitted via your private github repos where I've been added as well.
