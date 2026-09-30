@@ -13,3 +13,4 @@ Lecture material (in presentation folder):
 * 03-1- JavaScript_ Branching, Arrays & Functional Methods
 * 03-2- Interacting with the DOM
 * 04- Interacting with APIs from JavaScript
+* 05 - React Framework & React Framework Notes
