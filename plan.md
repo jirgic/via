@@ -5,7 +5,7 @@
 | **3** | **18.09.** | Branches (if/else/elseif) | Arrays |  | Loops | Functions |
 | **4** | **23.09.** | ----**Test**---- | ----**Test**---- |  | Data gathering (API) and visualisation | Data gathering (API) and visualisation |
 | **5** | **30.09.** | JS Basics | JS Basics |  | React | React |
-| **6** | **8.10.** | ----**Test**---- | ----**Test**---- |  | Browser event loop | Browser event loop |
+| **6** | **8.10.** | ----** re take Test**---- | ----** re take Test**---- |  | Browser event loop | JS + fetch API practical example | 
 | **7** | **14.10.** | Angular | Angular |  | Vue | Vue |
 | **8** | **21.10.** | ----Exam---- |
 
