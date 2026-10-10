@@ -14,3 +14,4 @@ Lecture material (in presentation folder):
 * 03-2- Interacting with the DOM
 * 04- Interacting with APIs from JavaScript
 * 05 - React Framework & React Framework Notes
+* 06 - Error handling
